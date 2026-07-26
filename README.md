@@ -9,16 +9,6 @@ I am passionate about using data to solve problems and support data-driven decis
 North-West University 
 Bachelor of Science in Information Technology (Final Year)
 
-Current GPA: 62.53%
-
-### Academic Achievements
-
-- Introduction to Programming Principles – 79%
-- Object-Oriented Programming – 75%
-- Communication Skills – 76%
-- Understanding the Natural World I – 75%
-- Understanding the Natural World II – 77%
-
 ## Technical Skills
 
 Programming Languages
