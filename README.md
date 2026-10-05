@@ -1,52 +1,60 @@
 # 👨‍💻 Martin Chabalala
 
+### BSc Information Technology | Graduate / Junior Software Developer
+
 Final-stage **Bachelor of Science in Information Technology** student at **North-West University (NWU)** with practical experience developing full-stack applications, REST APIs, database-driven systems and business intelligence solutions.
 
-I enjoy building software that solves practical problems and working across application development, databases, APIs and data. My current projects include personal finance and budgeting software, employee work-tracking and business intelligence systems, and a student marketplace.
+I enjoy building software that solves practical problems and working across **application development, databases, APIs and data**.
 
 I am currently seeking **Graduate / Junior Software Developer opportunities** and am available for employment from **November 2026**.
 
-## 💻 Technical Skills
+---
 
-### Programming Languages
-- C#
-- Java
-- Python
-- SQL
+## 🛠️ Technical Skills
 
-### Software Development
-- .NET MAUI
-- ASP.NET Core Web API
-- XAML
-- Object-Oriented Programming
-- REST APIs
+**Programming:**  
+C# • Java • Python • SQL
 
-### Databases
-- MySQL
-- SQL Server
-- Entity Framework Core
-- Relational Database Design
+**Software Development:**  
+.NET MAUI • ASP.NET Core Web API • XAML • Object-Oriented Programming • REST APIs
 
-### Data & Business Intelligence
-- Microsoft Excel
-- Data Cleaning
-- Data Analysis
-- Reporting
-- Business Intelligence
+**Databases:**  
+MySQL • SQL Server • Entity Framework Core • Relational Database Design
 
-### Tools
-- Visual Studio
-- Visual Studio Code
-- Git
-- GitHub
-- BlueJ
+**Data & Business Intelligence:**  
+Microsoft Excel • Data Cleaning • Data Analysis • Reporting • Business Intelligence
+
+**Tools:**  
+Visual Studio • Visual Studio Code • Git • GitHub • BlueJ
+
+---
 
 ## 🚀 Featured Projects
 
+### 📊 InsightFlow
+
+Full-stack **business information, employee work-tracking and performance management system** built using C#, .NET MAUI, ASP.NET Core Web API, Entity Framework Core and MySQL.
+
+**Key features:**
+- Secure employee authentication
+- Administrator, Manager and Employee roles
+- Employee and department management
+- Daily operational record capture
+- Business value tracking
+- Performance analytics
+- Business reports and charts
+- PDF report generation
+- Trend analysis and forecasting
+
+🔗 [View InsightFlow](https://github.com/martinhleketani/InsightFlow)
+
+---
+
 ### 💰 Martin SpendWise
+
 Personal finance, budgeting and grocery management application built using **C#, .NET MAUI, ASP.NET Core Web API, Entity Framework Core and MySQL**.
 
-Key features include:
+**Key features:**
 - User registration and authentication
 - JWT authentication
 - Password recovery
@@ -57,28 +65,25 @@ Key features include:
 - Grocery budget checking
 - Retailer price-comparison infrastructure
 
-### 📊 InsightFlow
-Employee work-tracking and business intelligence system designed for employees, administrators and management.
+> 🚧 Currently under development.
 
-Key features include:
-- Employee work activity tracking
-- Department-based records
-- Business value tracking
-- Work status and impact tracking
-- Management reporting
-- Performance analytics
-- Trend analysis and forecasting
+---
 
 ### 🛒 Campus Market
+
 Student-focused marketplace application for buying, selling and advertising products within a campus environment.
 
-Key features include:
+**Key features:**
 - User accounts
 - Product listings
 - Product categories
 - Product searching
 - Buyer marketplace functionality
 - Administrative functionality
+
+🔗 [View Campus Market](https://github.com/martinhleketani/nwu-campus-money-market)
+
+---
 
 ## 🎓 Education
 
@@ -87,12 +92,26 @@ North-West University (NWU)
 Vanderbijlpark Campus  
 2023 – Present
 
+---
+
 ## 🎯 Career Goal
 
 My goal is to begin my professional career as a **Graduate / Junior Software Developer**, where I can apply my knowledge of software development, databases, APIs and problem solving to real-world systems while continuing to develop my technical skills and industry experience.
+
+---
+
+## 🌐 Portfolio
+
+Explore my full software development portfolio:
+
+🔗 [Software Development Portfolio](https://martinhleketani.github.io/software-development-portfolio/)
+
+---
 
 ## 📫 Contact
 
 📧 **Email:** [Martinhleketani820@gmail.com](mailto:Martinhleketani820@gmail.com)
 
 💼 **LinkedIn:** [linkedin.com/in/martin-hleketani-31a078289](https://www.linkedin.com/in/martin-hleketani-31a078289)
+
+💻 **GitHub:** [github.com/martinhleketani](https://github.com/martinhleketani)
